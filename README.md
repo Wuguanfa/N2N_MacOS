@@ -13,6 +13,6 @@ Before you use this client, you need to install some libraries.
 	brew cask install tuntap
 
 Attention:
-	When you are install tuntap package, you need to allow tuntap package on "privacy security". If tuntap is blocked from installation during the first installation, you will need to allow his permission and install it again on the terminal.
+	When you are installing tuntap package, you need to allow tuntap package on "privacy security". If tuntap is blocked from installation during the first installation, you will need to allow his permission and install it again on the terminal.
 
 	Good luck!!!
